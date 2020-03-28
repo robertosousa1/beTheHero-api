@@ -28,19 +28,19 @@
 </p>
 
 <p align="center">
-  <a href="#🆙-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🚀-main-dependencies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#main-dependencies">Main Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
-## [](#🆙-getting-started)🆙 Getting started
+## [](#getting-started)Getting started
 
 -   Clone this repo
 -   `npm install`  or  `yarn`  to install all required dependencies
 - `npx knex migrate:latest` to update the database
 -   `yarn start`  to start the local server
 
-## [](#🚀-main-dependencies)🚀 Main dependencies
+## [](#main-dependencies)Main dependencies
 
 Some of the technologies used in this project:
 
