@@ -23,9 +23,8 @@ Some of the technologies used in this project:
 -   [Knex](http://knexjs.org/)
 -   [VS Code](https://code.visualstudio.com/)  with  [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## [](https://github.com/robertosousa1/beTheHero-api#memo-license)📝  License
-
-This project is under the MIT license. See the LICENSE for more information.
+## :memo: License
+This project is under the MIT license. See the [LICENSE]([https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE]) for more information.
 
 ----------
 
