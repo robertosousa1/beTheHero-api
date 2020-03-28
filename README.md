@@ -4,16 +4,16 @@
 
 **An NGO application that allows register the causes that are working and show it to people in order to find funders.**
 
-[Technologies](https://github.com/robertosousa1/gobarber-api#rocket-technologies) | [License](https://github.com/robertosousa1/gobarber-api#memo-license)
+[Technologies](https://github.com/robertosousa1/beTheHero-api#rocket-technologies) | [License](https://github.com/robertosousa1/beTheHero-api#memo-license)
 
-## [](https://github.com/robertosousa1/gobarber-api#up-getting-started)🆙  Getting started
+## [](https://github.com/robertosousa1/beTheHero-api#up-getting-started)🆙  Getting started
 
 -   Clone this repo
 -   `npm install`  or  `yarn`  to install all required dependencies
 - `npx knex migrate:latest` to update the database
 -   `yarn start`  to start the local server
 
-## [](https://github.com/robertosousa1/gobarber-api#rocket-main-dependencies)🚀  Main dependencies
+## [](https://github.com/robertosousa1/beTheHero-api#rocket-main-dependencies)🚀  Main dependencies
 
 Some of the technologies used in this project:
 
