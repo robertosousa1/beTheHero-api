@@ -2,9 +2,34 @@
     <img alt="Be The Hero" src="https://res.cloudinary.com/robertosousa1/image/upload/v1585419343/github-readme/bethehero_nr9mqs.svg" width="200px" />
 </h1>
 
-**An NGO application that allows register the causes that are working and show it to people in order to find funders.**
+<h4 align="center">
+  An NGO application that allows register the causes that are working and show it to people in order to find funders.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/beTheHero-api.svg">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertosousa1/beTheHero-api.svg">
+  
+  <a href="https://www.codacy.com/app/robertosousa1/beTheHero-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robertosousa1/beTheHero-api&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/beTheHero-api.svg">
+  <a href="https://github.com/robertosousa1/beTheHero-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robertosousa1/beTheHero-api.svg">
+  </a>
+  
+  <a href="https://github.com/robertosousa1/beTheHero-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/beTheHero-api.svg">
+  </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/robertosousa1/beTheHero-api.svg">   
+</p>
 
-[Technologies](https://github.com/robertosousa1/beTheHero-api#rocket-technologies) | [License](https://github.com/robertosousa1/beTheHero-api#memo-license)
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
 
 ## [](https://github.com/robertosousa1/beTheHero-api#up-getting-started)🆙  Getting started
 
@@ -13,7 +38,7 @@
 - `npx knex migrate:latest` to update the database
 -   `yarn start`  to start the local server
 
-## [](https://github.com/robertosousa1/beTheHero-api#rocket-main-dependencies)🚀  Main dependencies
+## [](https://github.com/robertosousa1/beTheHero-api#technologies)🚀  Main dependencies
 
 Some of the technologies used in this project:
 
@@ -23,7 +48,7 @@ Some of the technologies used in this project:
 -   [Knex](http://knexjs.org/)
 -   [VS Code](https://code.visualstudio.com/)  with  [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## :memo: License
+## [](https://github.com/robertosousa1/beTheHero-api#license)License
 This project is under the MIT license. See the [LICENSE]([https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE]) for more information.
 
 ----------
