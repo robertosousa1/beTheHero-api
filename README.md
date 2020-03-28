@@ -28,12 +28,12 @@
 </p>
 
 <p align="center">
-  <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#up-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-main-dependencies">Main Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <a href="#closed_lock_with_key-license">License</a>
 </p>
 
-## [](#getting-started)Getting started
+## [](#getting-started):up: Getting started
 
 -   Clone this repo
 -   `npm install`  or  `yarn`  to install all required dependencies
@@ -50,7 +50,7 @@ Some of the technologies used in this project:
 -   [Knex](http://knexjs.org/)
 -   [VS Code](https://code.visualstudio.com/)  with  [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## [](#license)License
+## [](#license):closed_lock_with_key: License
 This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE](https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE)]) for more information.
 
 ----------
