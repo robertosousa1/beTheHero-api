@@ -29,6 +29,10 @@ const remove = async (req, res) => {
     .select('ong_id')
     .first();
 
+  if (!incident) {
+    return res.status(401).json({ error: 'Incident does not exist.' });
+  }
+
   if (incident.ong_id !== ongId) {
     return res.status(401).json({ error: 'Operation not permitted.' });
   }
