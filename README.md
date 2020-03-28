@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <img alt="Be The Hero" src="https://res.cloudinary.com/robertosousa1/image/upload/v1585419343/github-readme/bethehero_nr9mqs.svg" width="200px" />
 </h1>
@@ -27,19 +28,19 @@
 </p>
 
 <p align="center">
-  <a href="#up-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🆙-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🚀-main-dependencies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
-## [](https://github.com/robertosousa1/beTheHero-api#up-getting-started)🆙  Getting started
+## [](#🆙-getting-started)🆙 Getting started
 
 -   Clone this repo
 -   `npm install`  or  `yarn`  to install all required dependencies
 - `npx knex migrate:latest` to update the database
 -   `yarn start`  to start the local server
 
-## [](https://github.com/robertosousa1/beTheHero-api#technologies)🚀  Main dependencies
+## [](#🚀-main-dependencies)🚀 Main dependencies
 
 Some of the technologies used in this project:
 
@@ -49,8 +50,8 @@ Some of the technologies used in this project:
 -   [Knex](http://knexjs.org/)
 -   [VS Code](https://code.visualstudio.com/)  with  [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## [](https://github.com/robertosousa1/beTheHero-api#license)License
-This project is under the MIT license. See the [LICENSE]([https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE]) for more information.
+## [](#license)  License
+This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE](https://github.com/robertosousa1/beTheHero-api/blob/master/LICENSE)]) for more information.
 
 ----------
 
