@@ -38,7 +38,7 @@
 -   Clone this repo
 -   `npm install`  or  `yarn`  to install all required dependencies
 - `npx knex migrate:latest` to update the database
--   `yarn start`  to start the local server
+-   `yarn start` or `npm start` to start the local server
 
 ## [](#main-dependencies):rocket: Main dependencies
 
